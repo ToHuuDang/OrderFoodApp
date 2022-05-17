@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Grocety Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="offers">Offers</string>
+    <string name="new_product">New Product</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_carts">My Carts</string>
+    <string name="description">Why do fruits and herbs smell this way? Is it for our enjoyment? Well, maybe, but for them it’s also a matter of survival of the species. Have you ever wondered why you’re in the garden admiring untouched fruit that needs just one more day to be perfectly ripe, and the next day you go out and someone (beast or bug) has gotten there first? Fruits want to be eaten. </string>
+</resources>
